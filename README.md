@@ -11,7 +11,8 @@
  -- Is able to turn on and off nightvision
  -- Can kill things in one hit
  -- Cannot be killed (can't kill itself either)
-
+ -- Can spawn monsters
+ 
 BUGS:
 
 - More than one ENTITY will break the stalker view ability
