@@ -6,6 +6,8 @@
  Please set the CVARs and check the controls to set the game up properly.
  Recommended to set 'teamdamage 1' and 'sv_nocoopinfo 1' for the game to be played as intended.
  Teamdamage is the only way for game to players to have an actively opposing player while the survivors spawn at the COOP spawn locations.
+
+ THERE CAN ONLY BE ONE ENTITY PLAYER. MORE THAN ONE CAUSES PROBLEMS AND BUGS.
  
  CURRENT FEATURES:
  
