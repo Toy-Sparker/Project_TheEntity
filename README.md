@@ -17,7 +17,7 @@
  - THE ENTITY
  -- Can go invisible and noclip
  -- Is able to turn on and off nightvision
- -- Can kill things with ease
+ -- Can kill things with ease by either charging forward (primary attack) or creating an explosion from itself (secondary)
  -- Cannot be killed (can't kill itself either)
  -- Ability to flash their perspective to all survivors
  -- Can spawn monsters
